@@ -14,7 +14,7 @@ Clone the Repository: Clone this repository to your local machine using Git:
 
 bash
 Copy code
-git clone https://github.com/your_username/tsp-bnb.git
+git clone https://github.com/Arshi81099/tsp-bnb.git
 Navigate to the Directory: Enter the cloned repository directory:
 
 bash
